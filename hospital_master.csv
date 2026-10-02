@@ -1,0 +1,16 @@
+Hospital ID,Hospital Name,City,State,Hospital Type,Departments,Scheme Support
+H001,Government General Hospital (GGH),Vijayawada,Andhra Pradesh,Government,Cardiology|Orthopedics|General Surgery|Pediatrics|Gastroenterology,Dr NTR Vaidya Seva / Aarogyasri|Ayushman Bharat PM-JAY
+H002,City Care Hospital,Vijayawada,Andhra Pradesh,Private,Cardiology|Orthopedics|General Surgery|Neurology,Dr NTR Vaidya Seva / Aarogyasri
+H003,Metro Multi Speciality Hospital,Guntur,Andhra Pradesh,Private,Cardiology|Orthopedics|General Surgery|Oncology,Ayushman Bharat PM-JAY|Dr NTR Vaidya Seva / Aarogyasri
+H004,Andhra Medical Centre,Guntur,Andhra Pradesh,Private,Cardiology|Orthopedics|General Surgery|Pediatrics,Ayushman Bharat PM-JAY
+H005,AIIMS Mangalagiri,Guntur,Andhra Pradesh,Government,Cardiology|Orthopedics|General Surgery|Gastroenterology|Oncology|Neurology,Ayushman Bharat PM-JAY|CGHS|Dr NTR Vaidya Seva / Aarogyasri
+H006,Ramesh Hospitals,Vijayawada,Andhra Pradesh,Private,Cardiology|Orthopedics|General Surgery|Gastroenterology,Dr NTR Vaidya Seva / Aarogyasri|CGHS|ESI
+H007,King George Hospital (KGH),Visakhapatnam,Andhra Pradesh,Government,Cardiology|Orthopedics|General Surgery|Oncology|Neurology,Dr NTR Vaidya Seva / Aarogyasri|Ayushman Bharat PM-JAY
+H008,SevenHills Hospital,Visakhapatnam,Andhra Pradesh,Private,Cardiology|Orthopedics|General Surgery|Gastroenterology,Dr NTR Vaidya Seva / Aarogyasri|CGHS
+H009,Apollo Hospitals,Visakhapatnam,Andhra Pradesh,Private,Cardiology|Orthopedics|Oncology|General Surgery|Neurology,CGHS|ESI|Rashtriya Arogya Nidhi
+H010,SVIMS (Sri Venkateswara Institute),Tirupati,Andhra Pradesh,Government,Cardiology|Orthopedics|Oncology|General Surgery|Neurology,Dr NTR Vaidya Seva / Aarogyasri|Ayushman Bharat PM-JAY|Rashtriya Arogya Nidhi
+H011,Ruia Government General Hospital,Tirupati,Andhra Pradesh,Government,Pediatrics|Orthopedics|General Surgery|Gastroenterology,Dr NTR Vaidya Seva / Aarogyasri
+H012,Rainbow Children's Hospital,Vijayawada,Andhra Pradesh,Private,Pediatrics|General Surgery,Dr NTR Vaidya Seva / Aarogyasri
+H013,Omega Cancer Hospital,Vijayawada,Andhra Pradesh,Private,Oncology|General Surgery,Dr NTR Vaidya Seva / Aarogyasri|Ayushman Bharat PM-JAY
+H014,NIMS Hospital,Hyderabad,Telangana,Government,Cardiology|Orthopedics|Oncology|Neurology|General Surgery,Ayushman Bharat PM-JAY|CGHS|Rashtriya Arogya Nidhi
+H015,Gandhi Hospital,Hyderabad,Telangana,Government,Cardiology|Orthopedics|Pediatrics|Gastroenterology|General Surgery,Ayushman Bharat PM-JAY|ESI

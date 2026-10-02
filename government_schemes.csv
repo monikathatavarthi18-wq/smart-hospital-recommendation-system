@@ -1,0 +1,6 @@
+Scheme ID,Scheme Name,State,Eligibility,Annual Coverage,Cost Reduction Type,Reduction Value,Verification Required,Official Source
+S001,Ayushman Bharat PM-JAY,All India,Eligible PM-JAY beneficiaries (SECC 2011 / Deprivation criteria),500000,Package Based,0,Yes,National Health Authority (NHA) PM-JAY (pmjay.gov.in)
+S002,Dr NTR Vaidya Seva / Aarogyasri,Andhra Pradesh,Eligible AP families holding BPL / Rice Card (Annual income < ₹5 Lakhs),250000,Package Based,0,Yes,AP Health Department & Dr. YSR Aarogyasri Trust (ysraarogyasri.ap.gov.in)
+S003,Central Government Health Scheme (CGHS),Central Government,"Eligible Central Govt employees, pensioners and their dependents",0,Package Based,0,Yes,Ministry of Health and Family Welfare (cghs.gov.in)
+S004,Employees' State Insurance (ESI),All India,"Employees earning up to ₹21,000/month (₹25,000 for persons with disabilities)",0,Medical Benefit,0,Yes,Employees' State Insurance Corporation (esic.gov.in)
+S005,Rashtriya Arogya Nidhi (RAN),All India,BPL patients suffering from specified life-threatening diseases,0,Financial Assistance,0,Yes,Ministry of Health and Family Welfare (mohfw.gov.in)
